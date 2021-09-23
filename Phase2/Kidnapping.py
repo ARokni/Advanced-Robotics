@@ -23,7 +23,7 @@ global kidnapp_flag
 kidnapp_flag = 0
 
 path = '/home/amiredge/catkin_ws/src/anki_description/world'
-root = ET.parse(path + '/sample2.world').getroot()
+root = ET.parse(path + '/map.world').getroot()
 x = 0.0
 y = 0.0
 theta = 0.0
