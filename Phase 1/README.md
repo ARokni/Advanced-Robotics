@@ -28,11 +28,11 @@
     -An intersted reader can refer to [[1]](#1), chaper **Measurements** for further readings.
 
 # Codes
-    - The codes for **Measurement Model** experiment are provided in [odometry.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/odometry.py) and [velocity_angular.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/velocity_angular.py).
+* The codes for **Measurement Model** experiment are provided in [odometry.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/odometry.py) and [velocity_angular.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/velocity_angular.py).
 
-    - The codes for **Sensor Model** experiment are provided in [laser.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/laser.py).
+* The codes for **Sensor Model** experiment are provided in [laser.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/laser.py).
 
-    - A linear regression code is provided in[Learning_Parameters.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/learning_parameters.py)  for determining the sensor model parameters.
+* A linear regression code is provided in[Learning_Parameters.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/learning_parameters.py)  for determining the sensor model parameters.
 
 
 
