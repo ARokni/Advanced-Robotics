@@ -1,25 +1,25 @@
 import numpy as np
 
 robot_max_range = 0.40000000596
-file_10cm_y = open('sample_range_10cm_y.txt', 'r')
+file_10cm_y = open('Data/sample_range_10cm_y.txt', 'r')
 lines_10cm_y = file_10cm_y.readlines()
 measurments_10cm_y = []
 for line in lines_10cm_y:
     measurments_10cm_y.append(float(line.strip()))
 
-file_20cm_y = open('sample_range_20cm_y.txt', 'r')
+file_20cm_y = open('Data/sample_range_20cm_y.txt', 'r')
 lines_20cm_y = file_20cm_y.readlines()
 measurments_20cm_y = []
 for line in lines_20cm_y:
     measurments_20cm_y.append(float(line.strip()))
 
-file_30cm_y = open('sample_range_30cm_y.txt', 'r')
+file_30cm_y = open('Data/sample_range_30cm_y.txt', 'r')
 lines_30cm_y = file_30cm_y.readlines()
 measurments_30cm_y = []
 for line in lines_30cm_y:
     measurments_30cm_y.append(float(line.strip()))
 
-file_30cm_x = open('sample_range_30cm_x.txt', 'r')
+file_30cm_x = open('Data/sample_range_30cm_x.txt', 'r')
 lines_30cm_x = file_30cm_x.readlines()
 measurments_30cm_x = []
 for line in lines_30cm_x:
