@@ -13,7 +13,8 @@ This repository contains my **Advanced-Robotics** course projects as part of thi
     - **RRT**
     - **Potential Field**
 
-* **`State Estimation`** : **`Bayes Filters`**
+* **`State Estimation`** 
+    * **Bayes Filters**
 
 * **`Gaussian Filters`**
     -   **Kalman Filter(KF)**
