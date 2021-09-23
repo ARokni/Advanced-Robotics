@@ -32,7 +32,7 @@
 
 * The codes for **Sensor Model** experiment are provided in [laser.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/laser.py).
 
-* A linear regression code is provided in[Learning_Parameters.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/learning_parameters.py)  for determining the sensor model parameters.
+* A linear regression code is provided in [Learning_Parameters.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/learning_parameters.py)  for determining the sensor model parameters.
 
 
 
