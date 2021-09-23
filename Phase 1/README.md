@@ -1,6 +1,6 @@
 # Phase I
 
-* In this project I have implemented a python code in oredr to identify the **`Motion Model`**  and **`Sensor Model`** of a robot named [**`Vector`**](https://www.amazon.com/Vector-Robot-Anki-Hangs-Helps/dp/B07G3ZNK4Y). 
+* In this project I have implemented a python code in oredr to identify the **`Motion-Model`**  and **`Sensor-Model`** of a robot named [**`Vector`**](https://www.amazon.com/Vector-Robot-Anki-Hangs-Helps/dp/B07G3ZNK4Y). 
 
 
     # Motion Model
@@ -26,6 +26,13 @@
     - The **Sensor Model** experiment has been conducted by observing the measurement of the sensor of the robot at various distances from a particular obstacle. The records are saved for **10[CM]**, **20[CM]**, and **30[CM]** distances.
 
     -An intersted reader can refer to [[1]](#1), chaper **Measurements** for further readings.
+
+    # Codes
+    - The codes for **Measurement Model** experiment are provided in [odometry.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/odometry.py) and [velocity_angular.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Motion_Model/velocity_angular.py).
+
+    - The codes for **Sensor Model** experiment are provided in [laser.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/laser.py).
+
+    - A linear regression code is provided in[Learning_Parameters.py](https://github.com/ARokni/Advanced-Robotics/blob/main/Phase%201/Sensor_Model/learning_parameters.py)  for determining the sensor model parameters.
 
 
 

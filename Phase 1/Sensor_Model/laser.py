@@ -9,7 +9,7 @@ count = 0
 measurement_list = []
 import os
 
-os.chdir(r'/home/sanaz/catkin_ws/src/advance_robotic_tutorial/src')
+os.chdir(r'/home/YourDir/catkin_ws/src/advance_robotic_tutorial/src')
 file = open('sample_range_30cm_x.txt', 'a')
 
 def save(msg):
