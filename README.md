@@ -51,7 +51,7 @@ This repository contains my **Advanced-Robotics** course projects as part of thi
 
 We utilized a robot, named [**`Vector`**](https://www.amazon.com/Vector-Robot-Anki-Hangs-Helps/dp/B07G3ZNK4Y), in our project.
 
-:one: In the first phase of the project,  **`Sensor Model`** and  **`Motion Model`** of the robot(**Vector**) has been investigated. We utilized an **`odometry method`** in order to identify the Motion Model of the robot. 
+:one: In the first phase of the project,  **`Sensor Model`** and  **`Motion Model`** of the robot(**Vector**) has been investigated. We utilized **`odometry method`** and **`Beam Range Finder Model`** in order to identify the **Motion Model** and **Sensor Model** of the robot respectively. 
 
  :two: In the second phase of the project we utilized the models has been drived in the previous phase in order to implement a **`Particle Filter`** algorithm for localization of the robot. Moreover, by some modifications the initial algorithm has been developed to slove the problem of **`Kindanpping`**.
 
